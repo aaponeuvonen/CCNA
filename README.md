@@ -1,2 +1,5 @@
-# CCNA
-CCNA-_Switching-_Routing-_and_Wireless_Essentials_certificate_aapo-neuvonen
+# CCNA certificate 
+CCNA Switching, Routing and Wireless Essentials certificate from the course Tietoverkkojen toiminta
+
+![CCNA: Switching, Routing, and Wireless Essentials -todistus](./ccna-switching-routing-wireless.png)
+
